@@ -1,0 +1,11 @@
+# Ignorar a pasta do IntelliJ IDEA
+.idea/
+
+# Ignorar arquivos de compilação e temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de log
+*.log
